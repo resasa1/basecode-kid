@@ -16,13 +16,13 @@ Clone the repository:
 Install dependencies:
 
       
-      Copy code
+     
       npm install 
       
 Run the application:
 
       
-      Copy code
+      
       npm run start  
 
 
