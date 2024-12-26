@@ -8,20 +8,20 @@
 **Installation**
 Clone the repository:
 
-      ```bash
+      
       git clone https://github.com/yourusername/basecode-kid.git
       cd gamification-coding-app
   
 
 Install dependencies:
 
-      ```bash
+      
       Copy code
       npm install 
       
 Run the application:
 
-      ```bash
+      
       Copy code
       npm run start  
 
