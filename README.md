@@ -9,7 +9,7 @@
 Clone the repository:
 
       ```bash
-      git clone https://github.com/yourusername/gamification-coding-app.git
+      git clone https://github.com/yourusername/basecode-kid.git
       cd gamification-coding-app
   
 
